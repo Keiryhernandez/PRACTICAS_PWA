@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\views\\asignaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\views\\asignaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\models\\asignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\models\\asignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|d:\\ciclo_01_2025\\desarrollo de paginas web activas\\practica\\practica2\\practica2crud\\practica2crud\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70247508-29F3-4A8E-9EF2-833951AAA63D}|practica2CRUD\\practica2CRUD.csproj|solutionrelative:practica2crud\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +30,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "practica2CRUD\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "practica2CRUD\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-16T21:11:58.282Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "practica2CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "practica2CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T01:30:51.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "practica2CRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "practica2CRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T01:21:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "practica2CRUD\\Models\\Estudiante.cs",
+              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Models\\Estudiante.cs",
+              "RelativeToolTip": "practica2CRUD\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:10:16.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "practica2CRUD\\Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "practica2CRUD\\Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T01:09:48.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Asignaturas\\Index.cshtml",
-              "RelativeDocumentMoniker": "practica2CRUD\\Views\\Asignaturas\\Index.cshtml",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Views\\Asignaturas\\Index.cshtml",
-              "RelativeToolTip": "practica2CRUD\\Views\\Asignaturas\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T21:10:33.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Program.cs",
-              "RelativeDocumentMoniker": "practica2CRUD\\Program.cs",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Program.cs",
-              "RelativeToolTip": "practica2CRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "practica2CRUD\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "practica2CRUD\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:57:40.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "practica2CRUD\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "practica2CRUD\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:56:47.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AsignaturasController.cs",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Controllers\\AsignaturasController.cs",
-              "RelativeDocumentMoniker": "practica2CRUD\\Controllers\\AsignaturasController.cs",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Controllers\\AsignaturasController.cs",
-              "RelativeToolTip": "practica2CRUD\\Controllers\\AsignaturasController.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAuwCcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:50:29.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Asignaturas.cs",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Models\\Asignaturas.cs",
-              "RelativeDocumentMoniker": "practica2CRUD\\Models\\Asignaturas.cs",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\Models\\Asignaturas.cs",
-              "RelativeToolTip": "practica2CRUD\\Models\\Asignaturas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:31:38.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\appsettings.json",
-              "RelativeDocumentMoniker": "practica2CRUD\\appsettings.json",
-              "ToolTip": "D:\\Ciclo_01_2025\\Desarrollo de paginas web activas\\PRACTICA\\Practica2\\practica2CRUD\\practica2CRUD\\appsettings.json",
-              "RelativeToolTip": "practica2CRUD\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T17:17:52.928Z"
+              "WhenOpened": "2025-03-16T22:33:54.525Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -261,3 +261,4 @@ D:\Ciclo_01_2025\Desarrollo de paginas web activas\PRACTICA\Practica2\practica2C
 D:\Ciclo_01_2025\Desarrollo de paginas web activas\PRACTICA\Practica2\practica2CRUD\practica2CRUD\obj\Debug\net8.0\practica2CRUD.pdb
 D:\Ciclo_01_2025\Desarrollo de paginas web activas\PRACTICA\Practica2\practica2CRUD\practica2CRUD\obj\Debug\net8.0\practica2CRUD.genruntimeconfig.cache
 D:\Ciclo_01_2025\Desarrollo de paginas web activas\PRACTICA\Practica2\practica2CRUD\practica2CRUD\obj\Debug\net8.0\ref\practica2CRUD.dll
+D:\Ciclo_01_2025\Desarrollo de paginas web activas\PRACTICA\Practica2\practica2CRUD\practica2CRUD\obj\Debug\net8.0\practica2CRUD.sourcelink.json
